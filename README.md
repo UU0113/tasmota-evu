@@ -1,5 +1,5 @@
 # tasmota-evu
 Tasmota Firmware with Smart Meter Extensions
 
-Program Version	12.4.0.5(tasmota)
-Build Date & Time	2023-04-13T08:55:40
+Program Version	13.4.0(tasmota) 
+Build Date & Time	2024-02-21T17:10:59
